@@ -14,13 +14,13 @@ FILE STRUCTURE:
 - README.txt            (This instruction file)
 
 HOW TO RUN:
-1. Ensure you have the file 'HealthMetricBMI_v1.py' in your directory.
-2. Open your terminal, command prompt, or PowerShell.
-3. Navigate to the directory containing the file.
-4. Run the following command: python HealthMetricBMI_v1.py or press the "Run python file" button
+1. Ensure you have the file 'HealthMetricBMI_v1.py' or 'HealthMetricBMI-FinalVersion.py' in your directory.
+2. Open your selected file.
+3. Navigate to the 'run Python file' button to open the application.
+   
 
 USAGE DIRECTIONS:
-1. Enter your weight in mertic or imperial units into the weight input field.
+1. Enter your weight in metric or imperial units into the weight input field.
 2. Enter your height in metric or imperial units into the height input field.
 3. Click the "Calculate BMI" button to view your BMI score and color-coded health category.
 4. Click the "Clear" button to wipe the inputs and reset the interface back to its default state.
