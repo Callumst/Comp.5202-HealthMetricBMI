@@ -1,4 +1,4 @@
-HealthMetric BMI - Version 1
+HealthMetric BMI 
 Developed for COMP.5202 Project Assessment
 
 DESCRIPTION:
@@ -10,8 +10,9 @@ PREREQUISITES:
 - Tkinter library (standard with most Python installations)
 
 FILE STRUCTURE:
+- HealthMetricBMI-FinalVersion.py (Main application source code)
 - HealthMetricBMI_v1.py (Main application source code)
-- README.txt            (This instruction file)
+- README.txt (This instruction file)
 
 HOW TO RUN:
 1. Ensure you have the file 'HealthMetricBMI_v1.py' or 'HealthMetricBMI-FinalVersion.py' in your directory.
